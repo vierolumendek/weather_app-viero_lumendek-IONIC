@@ -1,0 +1,6 @@
+.forecast_hourly_container {
+    border-radius: 1rem;
+    overflow-x: scroll;
+    flex-wrap: nowrap;
+    background-color: #000000;
+}
