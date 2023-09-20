@@ -1,0 +1,21 @@
+.ion-toolbar,
+.ion-padding {
+    --background: #111111;
+}
+
+.ion-button {
+    --background: #1A1816;
+}
+
+.ion-padding-about,
+.ion-padding-setting {
+    --background: #000000;
+}
+
+.ion-text-center,
+.ion-icon,
+h1,
+h3,
+p {
+    color: white;
+}
